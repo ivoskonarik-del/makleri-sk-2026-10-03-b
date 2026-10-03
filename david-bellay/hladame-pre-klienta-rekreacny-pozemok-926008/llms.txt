@@ -1,0 +1,18 @@
+# Hľadáme pre klienta rekreačný pozemok.
+
+> Pre konkrétneho klienta hľadáme na kúpu rekreačný pozemok vhodný na výstavbu, alebo rekonštrukciu. Cena do 150.000€. Platba v hotovosti.
+
+## Fakta
+- Typ: pozemok
+- Druh nabídky: predaj
+- Plocha: 1 m²
+- Vlastnictví: osobné
+- Lokalita: Devín, Bratislava
+- Cena: 150 000 €
+
+## Kontakt
+- Makléř: Mgr. David Bellay
+- Telefon: +421908431951
+- E-mail: bellay@gravitas.sk
+- Kancelář: GRAVITAS a. s.
+- Web kanceláře: https://www.gravitas.sk/

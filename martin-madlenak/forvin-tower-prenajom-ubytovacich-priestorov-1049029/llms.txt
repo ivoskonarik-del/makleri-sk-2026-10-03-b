@@ -1,0 +1,18 @@
+# FORVIN TOWER - Prenájom ubytovacích priestorov
+
+> GRAVITAS ponúka na prenájom rozsiahle ubytovacie kapacity vhodné pre výrobné podniky, personálne agentúry, stavebné spoločnosti alebo firmy zabezpečujúce ubytovanie pre svojich zamestnancov. Objekt disponuje 34 dvojizbovými bytmi, pričom každý byt má dve kúpeľne a kapacitu až 6 osôb. Parametre: -34 dvojizbových bytov -kapacita až 204 osôb -obytná plocha 2 950 m² -2 kúpeľne v každom byte -parkovani
+
+## Fakta
+- Typ: ostatné
+- Druh nabídky: prenájom
+- Plocha: 6420 m²
+- Vlastnictví: firemné
+- Lokalita: Veľký Krtíš
+- Cena: 999 999 999 €
+
+## Kontakt
+- Makléř: Ing. Martin Madleňák
+- Telefon: +421908431951
+- E-mail: madlenak@gravitas.sk
+- Kancelář: GRAVITAS a. s.
+- Web kanceláře: https://www.gravitas.sk/
